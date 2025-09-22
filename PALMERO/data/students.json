@@ -1,0 +1,88 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Roan Ge Kimson",
+      "age": 20,
+      "course": "Computer Science"
+    },
+    {
+      "id": 2,
+      "name": "Avril Maria Bantilan",
+      "age": 22,
+      "course": "Nursing (RN)"
+    },
+    {
+      "id": 3,
+      "name": "Liam Lucas Cabrera",
+      "age": 19,
+      "course": "Criminology"
+    },
+    {
+      "id": 4,
+      "name": "Abegail Florence Cabrera",
+      "age": 23,
+      "course": "Medical Technology"
+    },
+    {
+      "id": 5,
+      "name": "Jessa Lee Palmero",
+      "age": 21,
+      "course": "Cybersecurity"
+    }
+  ],
+  "courses": [
+    {
+      "id": 101,
+      "title": "Computer Science",
+      "description": "Study of algorithms, programming, and computing systems."
+    },
+    {
+      "id": 102,
+      "title": "Nursing",
+      "description": "A Healthcare practices, patient care, and medical ethics."
+    },
+    {
+      "id": 103,
+      "title": "Criminology",
+      "description": "Examination of criminal behavior, law enforcement, and justice systems."
+    },
+    {
+      "id": 104,
+      "title": "Medical Technology",
+      "description": "Training in laboratory techniques, diagnostics, and medical research."
+    },
+    {
+      "id": 105,
+      "title": "Cybersecurity",
+      "description": "Protection of systems, networks, and programs from cyber threats."
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "name": "John Rey Silverio",
+      "subject": "Modern JavaScript & Next.js Prerequisites"
+    },
+    {
+      "id": 2,
+      "name": "Maria Santos",
+      "subject": "Nursing"
+    },
+    {
+      "id": 3,
+      "name": "Florencio Cabrera L.P.T",
+      "subject": "Criminology"
+    },
+    {
+      "id": 4,
+      "name": "Aileen Cabrera",
+      "subject": "Medical Technology"
+    },
+    {
+      "id": 5,
+      "name": "Leah Palmero",
+      "subject": "Cybersecurity & Computer Science"
+    }
+  ]
+}
